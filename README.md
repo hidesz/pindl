@@ -104,8 +104,8 @@ read-only scopes and accesses only data belonging to the authenticated user.
 
 ## Contact
 
-Questions or issues? Please open an issue at
-<https://github.com/hisxz/pintr-dl/issues>.
+Questions or issues? Email the developer at **hideki1207d@gmail.com**, or open an
+issue at <https://github.com/hisxz/pintr-dl/issues>.
 
 ## License
 
