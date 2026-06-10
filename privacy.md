@@ -1,6 +1,6 @@
-# Privacy Policy
+# Privacy Policy for pintr-dl
 
-**Last updated: June 9, 2026**
+**Last updated: June 10, 2026**
 
 ## 1. Overview
 
@@ -108,6 +108,8 @@ change constitutes acceptance of the revised policy.
 
 ## 10. Contact
 
-If you have any questions about this Privacy Policy, please open an issue at:
+If you have any questions, concerns, or requests regarding this Privacy Policy or
+the App, you can contact the developer directly by email:
 
-https://github.com/hisxz/pintr-dl/issues
+**Email: hideki1207d@gmail.com**
+
